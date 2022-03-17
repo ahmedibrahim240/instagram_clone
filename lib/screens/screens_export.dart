@@ -1,0 +1,9 @@
+export 'authenticate/authenticate_export.dart';
+export 'splashscreen.dart';
+export 'home/home_export.dart';
+export 'upload/upload_post_export.dart';
+export 'user_profile/user_profile_export.dart';
+export 'search/search_export.dart';
+export 'package:instagram_clone/core/core_export.dart';
+export 'discover_people/discover_export.dart';
+export 'settings/settings_export.dart';

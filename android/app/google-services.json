@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1733982480",
+    "project_id": "instagram-clone-8b5fa",
+    "storage_bucket": "instagram-clone-8b5fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1733982480:android:300405c4458bbba3e78d95",
+        "android_client_info": {
+          "package_name": "com.kahraba.instagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1733982480-f3l774ddju1920d4l0m13d4kfhigocfp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kahraba.instagram",
+            "certificate_hash": "b55955f0cb7b438852ecd517a3f6525978013d68"
+          }
+        },
+        {
+          "client_id": "1733982480-vpang9tijl7rq8p7m1v15a4ame4c71ij.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5RSBI48iITkHwVSCX_PPheCFms4yEh-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1733982480-vpang9tijl7rq8p7m1v15a4ame4c71ij.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
