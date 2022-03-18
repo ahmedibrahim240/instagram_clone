@@ -74,7 +74,7 @@ class _MyAppState extends State<MyApp> with WidgetsBindingObserver {
       builder: (ThemeController controller) => GetMaterialApp(
         debugShowCheckedModeBanner: false,
         initialBinding: Binding(),
-        title: 'Instagram clone Demo',
+        title: 'Instagram Demo',
         themeMode: controller.themeMode.value,
         theme: controller.switchDartMode(),
         darkTheme: AppTheme.darkTheme,
